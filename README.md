@@ -1,4 +1,4 @@
-# pseeker
+# pseeker - The Finder
 
 Website admin panel finder improved.
 
