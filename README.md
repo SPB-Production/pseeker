@@ -1,4 +1,4 @@
-# pseeker
+# pseeker An Amazing project
 
 Website admin panel finder improved.
 
