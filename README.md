@@ -1,4 +1,4 @@
-# pseeker
+# Pseeker
 
 Website admin panel finder improved.
 
@@ -27,7 +27,7 @@ socks
 
 Then follow the instructions and there you go.
 
-## Tor Usage
+## Step to install and run " Tor " 
 
 To use pseeker with Tor you need to download and install [Tor Browser](https://www.torproject.org/download/download) and then run it. Usually Tor runs the proxy on 127.0.0.1 on port 9150 on Windows but you can change the proxy settings inside pseeker configuration phase.
 
