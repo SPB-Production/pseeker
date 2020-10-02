@@ -1,4 +1,4 @@
-# pseeker
+# pseeker - The Best Project
 
 Website admin panel finder improved.
 
